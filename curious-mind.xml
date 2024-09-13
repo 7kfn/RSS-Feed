@@ -4,7 +4,7 @@
     <title>The Curious Mind</title>
     <link>https://example.com/podcast</link>
     <description>The Curious Mind is a weekly email covering the BIG IDEAS at the intersection of markets, technology and personal development.</description>
-    <language>en-us</language>
+    <language>en-uk</language>
     <copyright>© 2024 Aloudable</copyright>
     <lastBuildDate>Fri, 13 Sep 2024 12:00:00 GMT</lastBuildDate>
     <pubDate>Fri, 13 Sep 2024 12:00:00 GMT</pubDate>
@@ -15,7 +15,7 @@
       <itunes:name>Aloudable</itunes:name>
       <itunes:email>email@example.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://example.com/podcast/cover-art.jpg"/>
+    <itunes:image href="https://7kfn.github.io/RSS-Feed/curious-mind.png"/>
     <itunes:category text="Business">
       <itunes:category text="Investing"/>
     </itunes:category>
@@ -26,8 +26,8 @@
       <link>https://example.com/podcast/episode1</link>
       <description>Episode description goes here.</description>
       <pubDate>Fri, 13 Sep 2024 12:00:00 GMT</pubDate>
-      <enclosure url="https://example.com/podcast/episode1.mp3" length="34216300" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://example.com/podcast/episode1</guid>
+      <enclosure url="https://7kfn.github.io/RSS-Feed/The-Curious-Mind-Demo.mp3" length="34216300" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://7kfn.github.io/RSS-Feed/The-Curious-Mind-Demo.mp3</guid>
       <itunes:duration>00:35:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>

@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Curious Mind</title>
-    <link>https://example.com/podcast</link>
-    <description>The Curious Mind is a weekly email covering the BIG IDEAS at the intersection of markets, technology and personal development.</description>
-    <language>en-uk</language>
-    <copyright>© 2024 Aloudable</copyright>
-    <lastBuildDate>Fri, 13 Sep 2024 12:00:00 GMT</lastBuildDate>
+    <link>https://afewthings.substack.com/</link>
+    <language>en-gb</language>
+    <copyright>&#xA9; 2024 Aloudable Ltd</copyright>
     <pubDate>Fri, 13 Sep 2024 12:00:00 GMT</pubDate>
-    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
-    <webMaster>email@example.com (Your Name)</webMaster>
-    <itunes:author>Aloudable</itunes:author>
-    <itunes:owner>
-      <itunes:name>Aloudable</itunes:name>
-      <itunes:email>email@example.com</itunes:email>
-    </itunes:owner>
+    <lastBuildDate>Fri, 13 Sep 2024 12:00:00 GMT</lastBuildDate>
+    <image>
+      <url>https://7kfn.github.io/RSS-Feed/curious-mind.png</url>
+      <title>The Curious Mind</title>
+      <link>https://afewthings.substack.com/</link>
+    </image>
     <itunes:image href="https://7kfn.github.io/RSS-Feed/curious-mind.png"/>
-    <itunes:category text="Business">
-      <itunes:category text="Investing"/>
-    </itunes:category>
-    <itunes:explicit>false</itunes:explicit>
-    
+    <itunes:explicit>no</itunes:explicit>
+    <description>The Curious Mind Podcast explores diverse topics ranging from science and economics to philosophy and technology.</description>
+    <itunes:author>Aloudable Ltd</itunes:author>
+    <itunes:owner>
+      <itunes:name>Aloudable Ltd</itunes:name>
+      <itunes:email>podcast@aloudable.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Society &amp; Culture"/>
     <item>
       <title>The Future of Science, Marko On Markets, Cumulative Knowledge, The Story That Changes The World, Autonomous AI, The One Thing Bigger Than AI and Curious Minds Events</title>
-      <link>https://drive.google.com/uc?export=download&id=16ygjRfU0xWrPuFN2xNd-pTuYtvjQjavZ</link>
-      <description><![CDATA[<p><strong>The Curious Mind Podcast - September 11th, 2024</strong></p>
+      <link>https://afewthings.substack.com/</link>
+      <pubDate>Fri, 13 Sep 2024 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">curious-mind-2024-09-13</guid>
+      <description>In this week's episode: a discussion of whether science is making any progress; how trade wars don't work in a multipolar world; Tom Morgan's exploration of how the Hero's Journey is a map for life; insights into AI's future from Andrej Karpathy; and why GLP-1 drugs might be an even bigger theme than AI. We also touch on the distinction between cumulative and cyclical knowledge, the dawn of AI agents, and how AI is transforming business models and human productivity.</description>
+      <content:encoded><![CDATA[<p><strong>The Curious Mind Podcast - September 11th, 2024</strong></p>
 <p><em>In this week's episode: a discussion of whether science is making any progress; how trade wars don't work in a multipolar world; Tom Morgan's exploration of how the Hero's Journey is a map for life; insights into AI's future from Andrej Karpathy; and why GLP-1 drugs might be an even bigger theme than AI. We also touch on the distinction between cumulative and cyclical knowledge, the dawn of AI agents, and how AI is transforming business models and human productivity.</em></p>
 <p><strong>Main topics discussed:</strong></p>
 <ul>
@@ -47,12 +51,10 @@
   <li>Stephen Clapham's <a href="https://behindthebalancesheet.com/podcasts/">podcast</a> and <a href="https://behindthebalancesheet.com/">newsletter</a></li>
 </ul>
 <p><strong>Subscribe to The Curious Mind:</strong> <a href="https://afewthings.substack.com/">https://afewthings.substack.com/</a></p>
-<p><em>If you enjoyed the podcast, please visit the <a href="https://afewthings.substack.com/">Substack</a> and hit the heart at the bottom of the article to show your support.</em></p>]]></description>
-      <pubDate>Fri, 13 Sep 2024 12:00:00 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&id=16ygjRfU0xWrPuFN2xNd-pTuYtvjQjavZ" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://drive.google.com/file/d/16ygjRfU0xWrPuFN2xNd-pTuYtvjQjavZ</guid>
-      <itunes:duration>00:35:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+<p><em>If you enjoyed the podcast, please visit the <a href="https://afewthings.substack.com/">Substack</a> and hit the heart at the bottom of the article to show your support.</em></p>]]></content:encoded>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16ygjRfU0xWrPuFN2xNd-pTuYtvjQjavZ" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>
